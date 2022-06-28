@@ -27,13 +27,17 @@ then by the principle of recursive definition there exists a function \phi such 
 \phi(a + b) = \phi(a) + \phi(b) and \phi(ab) = \phi(a)\phi(b).
 If a = b , then g(a)^2 \equiv g(a)g(a) \equiv g(a^2)  and g(a^2 + a + g(a)) \equiv g(a^2)  + g(a) + g(g(a)).
 Then proceeding with contradiction taking from the problem we have:
+$
 \begin{center}
+    $
     g(a^2 + b + g(b)) = 2b + g(a)^2
     taking b = a, \forall a,b \in \mathbb{N} \subset\mathbb{R}
     by the principle of recursive definition
     g(a)g(a) + g(a) + g(g(a)) = 2a + g(a)g(a)
     g(a) + g(g(a)) = 2a
+    $
 \end{center}
+$
 but since a \in \mathbb{N} and \mathbb{N} \subset \mathbb{R} \implies  a \in \mathbb{R}, 
 but g(a) \in \mathbb{R} and the function compositon of g(g(a)) \in \mathbb{R} \implies g(a) + g(g(a))\neq 2a
 since the scaling a by 2 where 2 , a \in\mathbb{N} does not imply equality despite \mathbb{N} \subset \mathbb{R}
@@ -45,7 +49,7 @@ $
 \section{Question 2}
 
 \newpage
-6
+
 \section{Question 3}
 
 \end{document}
