@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.22)  28 JUN 2022 14:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.22)  28 JUN 2022 14:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -83,6 +83,23 @@ LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
+(C:\Program Files\MiKTeX\tex/latex/ragged2e\ragged2e.sty
+Package: ragged2e 2021/12/15 v3.1 ragged2e Package
+\CenteringLeftskip=\skip58
+\RaggedLeftLeftskip=\skip59
+\RaggedRightLeftskip=\skip60
+\CenteringRightskip=\skip61
+\RaggedLeftRightskip=\skip62
+\RaggedRightRightskip=\skip63
+\CenteringParfillskip=\skip64
+\RaggedLeftParfillskip=\skip65
+\RaggedRightParfillskip=\skip66
+\JustifyingParfillskip=\skip67
+\CenteringParindent=\skip68
+\RaggedLeftParindent=\skip69
+\RaggedRightParindent=\skip70
+\JustifyingParindent=\skip71
+)
 (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-04-20 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count196
@@ -91,20 +108,20 @@ File: l3backend-pdftex.def 2022-04-20 L3 backend support: PDF output (pdfTeX)
 (michael-goboola-contest-submission.aux)
 \openout1 = `michael-goboola-contest-submission.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -142,22 +159,22 @@ LaTeX Font Info:    ... okay on input line 15.
 
 
 LaTeX Font Warning: Font shape `T1/cmr/m/n' in size <24> not available
-(Font)              size <24.88> substituted on input line 18.
+(Font)              size <24.88> substituted on input line 19.
 
 
 LaTeX Font Warning: Font shape `T1/cmr/m/sc' in size <24> not available
-(Font)              size <24.88> substituted on input line 19.
+(Font)              size <24.88> substituted on input line 20.
 
 
 LaTeX Font Warning: Font shape `T1/cmr/bx/sc' in size <24> not available
-(Font)              size <24.88> substituted on input line 19.
+(Font)              size <24.88> substituted on input line 20.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 24.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 25.
 
 (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 24.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 25.
 
 
 (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
@@ -198,10 +215,10 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 2040 strings out of 478354
- 30310 string characters out of 2846927
- 330005 words of memory out of 3000000
- 20475 multiletter control sequences out of 15000+600000
+ 2125 strings out of 478354
+ 32183 string characters out of 2846927
+ 330495 words of memory out of 3000000
+ 20556 multiletter control sequences out of 15000+600000
  479127 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,11n,62p,208b,244s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -215,7 +232,7 @@ mr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/P
 rogram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files
 /MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program Files/MiKTeX
 /fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on michael-goboola-contest-submission.pdf (3 pages, 81623 bytes)
+Output written on michael-goboola-contest-submission.pdf (3 pages, 79841 bytes)
 .
 PDF statistics:
  123 PDF objects out of 1000 (max. 8388607)

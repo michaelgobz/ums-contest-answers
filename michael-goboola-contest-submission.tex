@@ -4,6 +4,7 @@
 \usepackage{geometry}
 \usepackage{fancyhdr}
 \usepackage{amssymb}
+\usepackage{ragged2e}
 
 \pagestyle{fancy}
 \fancyhf{}
@@ -22,31 +23,34 @@
 \section{Question 1}
 
 $a  \in  \mathbb{R}, b  \in  \mathbb{R}$ then by  the mapping $g$ , $g(a)  \in \mathbb{R}$ and
-$g(b) \in \mathbb{R}$. Suppose $a,b$ $\in \mathbb{N} and \mathbb{N} \subset \mathbb{R}$, 
+$g(b) \in \mathbb{R}$. Suppose $a,b$ $\in \mathbb{N}$  and $\mathbb{N} \subset \mathbb{R}$, 
 then by the principle of recursive definition there exists a function $\phi$ such that
-$\phi(a + b) = \phi(a) + \phi(b) and \phi(ab) = \phi(a)\phi(b)$.
-If $a = b$ , then $g(a)^2 \equiv g(a)g(a) \equiv g(a^2)  and g(a^2 + a + g(a)) \equiv g(a^2)  + g(a) + g(g(a))$.
+$\phi(a + b) = \phi(a) + \phi(b)$ and $\phi(ab) = \phi(a)\phi(b)$.
+If $a = b$ , then $g(a)^2 \equiv g(a)g(a) \equiv g(a^2)$  and $g(a^2 + a + g(a)) \equiv g(a^2)  + g(a) + g(g(a))$.
 Then proceeding with contradiction taking from the problem we have
 
-\begin{center}
-    
-    $g(a^2 + b + g(b)) = 2b + g(a)^2$ 
-    taking $b = a, \forall a,b \in \mathbb{N} \subset\mathbb{R}$ \newline
+   \begin{justify} 
+    \begin{center}
+    $g(a^2 + b + g(b)) = 2b + g(a)^2$ \newline
+    taking $b = a, \forall a,b \in \mathbb{N} \subset\mathbb{R}$ \newline 
     by the principle of recursive definition \newline
     $g(a)g(a) + g(a) + g(g(a)) = 2a + g(a)g(a)$ \newline
     $g(a) + g(g(a)) = 2a$ \newline
-    
-\end{center}
+    \end{center}
+   \end{justify}
+
 but since $a \in \mathbb{N}$ and $\mathbb{N} \subset \mathbb{R}$ implies  $a \in \mathbb{R}$,
-but $g(a) \in \mathbb{R}$ and the function compositon of $g(g(a)) \in \mathbb{R} implies g(a) + g(g(a))\neq 2a$ \newline
+but $g(a) \in \mathbb{R}$ and the function compositon of $g(g(a)) \in \mathbb{R}$ implies $g(a) + g(g(a))\neq 2a$ \newline
 since the scaling a by $2$ where $2$ , $a \in\mathbb{N}$ does not imply equality despite $\mathbb{N} \subset \mathbb{R}$ \newline
 this contradiction it makes the function$ g:\mathbb{R}\longrightarrow \mathbb{R}$ \newline
-undefined in the ordered field $\mathbb{R}$
+undefined in the ordered field $\mathbb{R}$ and this 
 completes the proof. $\blacksquare$
 
 \newpage
 
 \section{Question 2}
+
+
 
 \newpage
 
