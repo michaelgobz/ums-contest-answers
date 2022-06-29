@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.22)  29 JUN 2022 13:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.22)  29 JUN 2022 19:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -297,31 +297,48 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 \Gin@req@width=\dimen169
 )
 
-LaTeX Font Warning: Font shape `T1/cmr/m/n' in size <24> not available
-(Font)              size <24.88> substituted on input line 20.
+LaTeX Font Warning: Font shape `T1/cmr/m/n' in size <20> not available
+(Font)              size <20.74> substituted on input line 20.
 
 
-LaTeX Font Warning: Font shape `T1/cmr/m/sc' in size <24> not available
-(Font)              size <24.88> substituted on input line 21.
+LaTeX Font Warning: Font shape `T1/cmr/m/sc' in size <20> not available
+(Font)              size <20.74> substituted on input line 21.
 
 
-LaTeX Font Warning: Font shape `T1/cmr/bx/sc' in size <24> not available
-(Font)              size <24.88> substituted on input line 21.
+LaTeX Font Warning: Font shape `T1/cmr/bx/sc' in size <20> not available
+(Font)              size <20.74> substituted on input line 21.
+
+
+Overfull \hbox (7.85371pt too wide) in paragraph at lines 21--26
+[]\T1/cmr/bx/sc/20.74 NATIONAL MATH-E-MAT-ICS CON-TEST 
+ []
+
+
+LaTeX Font Warning: Font shape `T1/cmr/m/n' in size <18> not available
+(Font)              size <17.28> substituted on input line 30.
+
+
+LaTeX Font Warning: Font shape `T1/cmr/m/sc' in size <18> not available
+(Font)              size <17.28> substituted on input line 31.
+
+
+LaTeX Font Warning: Font shape `T1/cmr/bx/sc' in size <18> not available
+(Font)              size <17.28> substituted on input line 31.
 
 
 LaTeX Font Warning: Font shape `T1/cmr/m/n' in size <16> not available
-(Font)              size <17.28> substituted on input line 33.
+(Font)              size <17.28> substituted on input line 43.
 
 
 LaTeX Font Warning: Font shape `T1/cmr/m/sc' in size <16> not available
-(Font)              size <17.28> substituted on input line 35.
+(Font)              size <17.28> substituted on input line 45.
 
 
 LaTeX Font Warning: Font shape `T1/cmr/bx/sc' in size <16> not available
-(Font)              size <17.28> substituted on input line 35.
+(Font)              size <17.28> substituted on input line 45.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--39
+Underfull \hbox (badness 10000) in paragraph at lines 45--49
 
  []
 
@@ -336,13 +353,24 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [1{C:/Users/michael/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
 ]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 50.
 
+LaTeX Font Warning: Font shape `T1/cmr/m/n' in size <24> not available
+(Font)              size <24.88> substituted on input line 54.
+
+
+LaTeX Font Warning: Font shape `T1/cmr/m/sc' in size <24> not available
+(Font)              size <24.88> substituted on input line 55.
+
+
+LaTeX Font Warning: Font shape `T1/cmr/bx/sc' in size <24> not available
+(Font)              size <24.88> substituted on input line 55.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 60.
 
 (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 50.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 60.
 
 
 (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
@@ -372,31 +400,32 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 4256 strings out of 478354
- 64969 string characters out of 2846927
+ 4268 strings out of 478354
+ 65128 string characters out of 2846927
  370170 words of memory out of 3000000
- 22630 multiletter control sequences out of 15000+600000
- 480491 words of font info for 55 fonts, out of 8000000 for 9000
+ 22639 multiletter control sequences out of 15000+600000
+ 482631 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,11n,76p,269b,253s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\michael\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ec
 bx1728.pk> <C:\Users\michael\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/d
-pi600\eccc1728.pk> <C:\Users\michael\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
-pen/ec/dpi600\ecxc1728.pk> <C:\Users\michael\AppData\Local\MiKTeX\fonts/pk/ljfo
-ur/jknappen/ec/dpi600\ecxc2488.pk> <C:\Users\michael\AppData\Local\MiKTeX\fonts
-/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\michael\AppData\Local\MiKT
-eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk><C:/Program Files/MiKTeX/font
-s/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/publ
-ic/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/c
-m/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C
-:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Fi
-les/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX/fo
-nts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program Files/MiKTeX/fonts/typ
-e1/public/amsfonts/symbols/msbm10.pfb>
-Output written on michael-goboola-contest-submission.pdf (3 pages, 131904 bytes
+pi600\ecxc2488.pk> <C:\Users\michael\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
+pen/ec/dpi600\eccc1728.pk> <C:\Users\michael\AppData\Local\MiKTeX\fonts/pk/ljfo
+ur/jknappen/ec/dpi600\ecxc1728.pk> <C:\Users\michael\AppData\Local\MiKTeX\fonts
+/pk/ljfour/jknappen/ec/dpi600\ecxc2074.pk> <C:\Users\michael\AppData\Local\MiKT
+eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\michael\AppData\Lo
+cal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk><C:/Program Files/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr
+8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Pr
+ogram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/M
+iKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program Files/MiKTeX/f
+onts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on michael-goboola-contest-submission.pdf (3 pages, 136936 bytes
 ).
 PDF statistics:
- 206 PDF objects out of 1000 (max. 8388607)
+ 221 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
